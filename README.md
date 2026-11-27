@@ -23,7 +23,7 @@
 <img width="133" height="327" alt="三号人物02" src="https://github.com/user-attachments/assets/a2038567-cc01-4525-b82e-79ec57eb0271" />
 <img width="133" height="327" alt="三号人物03" src="https://github.com/user-attachments/assets/08891017-4a99-46a7-b20f-c8b5c879cee7" />
 
-<img width="351" height="710" alt="四号人物01" src="https://github.com/user-attachments/assets/5e52cdaf-e26c-4fea-a6de-ae20b2f13b14" />
+<img width="351" height="710" alt="四号人物01" src="https://github.com/user-attachments/assets/6ec82e70-f5fb-4963-86ca-dddd63b960a8" />
 <img width="320" height="779" alt="四号人物02" src="https://github.com/user-attachments/assets/cc965302-7ccf-46fe-83e6-6f0ebe608fce" />
 <img width="320" height="779" alt="四号人物03" src="https://github.com/user-attachments/assets/b8522347-e374-497d-ae3c-4afd006d841a" />
 <img width="320" height="779" alt="四号人物04" src="https://github.com/user-attachments/assets/4463ee9a-3135-421b-bbeb-ab7e9621cd85" />
