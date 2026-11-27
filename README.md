@@ -7,9 +7,8 @@
 <img width="1153" height="887" alt="14fe90f5785246cb4ff773b2bfdaed23" src="https://github.com/user-attachments/assets/3f0f1f97-8448-479b-99b7-fc209e4ca212" />
 
 人物IP图
+
 <img width="351" height="710" alt="四号人物-removebg-preview" src="https://github.com/user-attachments/assets/5e52cdaf-e26c-4fea-a6de-ae20b2f13b14" />
-<img width="763" height="327" alt="不同服装-removebg-preview" src="https://github.com/user-attachments/assets/f3bc5c46-743c-465a-8728-8aa26935f2ab" />
-<img width="763" height="327" alt="不同服装__1_-removebg-preview" src="https://github.com/user-attachments/assets/1daa6e27-dfd3-486d-8ee1-f09bd37b2995" />
 <img width="376" height="663" alt="一号人物-removebg-preview" src="https://github.com/user-attachments/assets/59741ea8-fdab-45a7-8788-2315db62d2a9" />
 <img width="143" height="327" alt="不同服装-removebg-preview" src="https://github.com/user-attachments/assets/0edc9cb5-ba9f-4792-a422-6773b249528d" />
 <img width="133" height="327" alt="不同服装__1_-removebg-preview (2)" src="https://github.com/user-attachments/assets/15c6fa0b-444d-410b-ae47-96779b3aacbd" />
