@@ -11,3 +11,6 @@
 <img width="763" height="327" alt="不同服装-removebg-preview" src="https://github.com/user-attachments/assets/f3bc5c46-743c-465a-8728-8aa26935f2ab" />
 <img width="763" height="327" alt="不同服装__1_-removebg-preview" src="https://github.com/user-attachments/assets/1daa6e27-dfd3-486d-8ee1-f09bd37b2995" />
 <img width="376" height="663" alt="一号人物-removebg-preview" src="https://github.com/user-attachments/assets/59741ea8-fdab-45a7-8788-2315db62d2a9" />
+
+网页风格参考图
+<img width="868" height="488" alt="a2afaa0f22b2270555ebf2767038b273" src="https://github.com/user-attachments/assets/c36356e7-fb40-46ef-bea4-ac8b20309715" />
